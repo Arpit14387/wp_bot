@@ -1,4 +1,4 @@
-const qrcode = require('qrcode-terminal');
+
 const express= require("express");
 const cors= require("cors")
 const serverless= require("serverless-http")
